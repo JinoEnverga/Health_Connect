@@ -9,7 +9,7 @@ import {
   MdHealthAndSafety, MdContentCopy,
 } from 'react-icons/md';
 
-const FLASK_API = 'http://localhost:5000'; // change when deployed
+const FLASK_API = 'https://healthconnect-ai-api.onrender.com'; // change when deployed
 
 const SCANNERS = [
   {
